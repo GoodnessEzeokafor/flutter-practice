@@ -45,3 +45,6 @@ class CheckoutScreen extends StatelessWidget {
     );
   }
 }
+
+
+// flutter run --release
